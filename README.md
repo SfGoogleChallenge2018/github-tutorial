@@ -58,4 +58,6 @@ After you've done the above, go to your repository, and click "New pull request"
 
 You are done!
 
-**Note**: This tutorial may not be as extensive as I'd like it to be. I might have missed some steps. If you've noticed anything, feel free to edit this document, and submit a pull request. Also, if you have trouble with these instructions, or need any help, don't hesitate to reach out to me!
+#### NOTE:
+
+This tutorial may not be as extensive as I'd like it to be. I might have missed some steps. If you've noticed anything, feel free to edit this document, and submit a pull request. Also, if you have trouble with these instructions, or need any help, don't hesitate to reach out to me!
