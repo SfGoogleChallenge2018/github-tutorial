@@ -53,3 +53,9 @@ After saving your changes, go back to your terminal, and follow these instructio
 3. `git push origin master`
 
 ### Make a pull request
+
+After you've done the above, go to your repository, and click "New pull request".
+
+You are done!
+
+**Note**: This tutorial may not be as extensive as I'd like it to be. I might have missed some steps. If you've noticed anything, feel free to edit this document, and submit a pull request. Also, if you have trouble with these instructions, or need any help, don't hesitate to reach out to me!
