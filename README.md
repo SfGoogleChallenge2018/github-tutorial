@@ -2,7 +2,7 @@
 
 For us to work effectively, we'll need to make use of Git/Github. This repository serves as a sort of playground allowing you to learn by doing.
 
-Fun Fact: Git was created by the inventor of Linux, <a href="https://en.wikipedia.org/wiki/Linus_Torvalds">Linus Torvalds</a>.
+**Fun Fact**: Git was created by the inventor of Linux, <a href="https://en.wikipedia.org/wiki/Linus_Torvalds">Linus Torvalds</a>.
 
 ## Prerequisites
 
