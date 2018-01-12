@@ -17,11 +17,15 @@ But don't worry, we'll help you along the way.
 
 First, you need to `fork` this repository. You can find that on the top of this page, right under your profile picture.
 
+### Cloning the repository
+
 After you fork this repository, you'll need to get it set up on your local environment. This is accomplished via `git clone`, with the command line. In your repository, you'll find a green button that says "clone or download". Click that, and copy the URL.
 
 Now, in your terminal, where you've installed git, type `git clone https://github.com/YOUR_USERNAME/github-tutorial.git`
 
 Now you have the files downloaded!
+
+### Add changes to files
 
 In `index.html`, add a span, with an id relating to your color, and your name, like so:
 
@@ -31,7 +35,7 @@ In `index.html`, add a span, with an id relating to your color, and your name, l
 
 You pick a hex color code here: http://htmlcolorcodes.com/, but you can also use the name of the color, if you'd prefer.
 
-After you've added the span in `index.html`, navigate to the `style.css` file, and make some changes to your text!
+After you have added the span in `index.html`, navigate to the `style.css` file, and make some changes to your text!
 
 ```
 #color_B9AD83 {
@@ -39,3 +43,13 @@ After you've added the span in `index.html`, navigate to the `style.css` file, a
   font-size: 20px;
 }
 ```
+
+### Commit your changes
+
+After saving your changes, go back to your terminal, and follow these instructions:
+
+1. `git add .`
+2. `git commit -m "Add name"`
+3. `git push origin master`
+
+### Make a pull request
