@@ -1,6 +1,6 @@
 # github-tutorial
 
-For us to work effectively, we'll need to make us of Git/Github. This repository serves as a sort of playground allowing you to learn by doing.
+For us to work effectively, we'll need to make use of Git/Github. This repository serves as a sort of playground allowing you to learn by doing.
 
 ## Prerequisites
 
